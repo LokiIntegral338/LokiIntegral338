@@ -14,7 +14,7 @@ I can develop in these languages (Skill in descending order)
 - Python
 - HTML,CSS
 
-Reach out to me via Twitter or per E-Mail: paulin.wirth[a]gmx.de
+Reach out to me via Twitter or per E-Mail: paulin.wirth@gmx.de
 <!---
 LokiIntegral338/LokiIntegral338 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
