@@ -3,10 +3,9 @@ Hi, I’m @LokiIntegral338
 My finished Projects are
 - Kressefarm (Arduino)
 - Pyrotech mod (Minecraft Mod in Java)
-
-I am currently working on
 - DROP (Unity C#, Andriod iOS)
-- SHIPS! (Unity C#)
+- BallAttack (Unity C#, Andriod)
+- TrafficRouter(Unity C#, Andriod)
 
 I can develop in these languages (Skill in descending order)
 - C#
